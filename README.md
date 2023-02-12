@@ -36,8 +36,3 @@ Each transaction object has the following properties:
 This code demonstrates how to use the TRON Grid API to analyze transactions on the TRON blockchain and categorize them based on the type of token involved. The code uses the Axios library to make HTTP requests to the API and processes the response data to extract the relevant information.
 
 
-## Txid of trx to my Tronlink wallet 
-36a53ed48ab38fd3ef50ea3643498a3cdc1f3cc77d0082264213f73c453d68cc
-
-# trx block number
-48444614
